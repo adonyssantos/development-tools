@@ -135,9 +135,9 @@ Browse to find the images that fit your needs and click to download. Use the on-
 
 ## Workflow
 
-A specification for adding human and machine readable meaning to commit messages.
-
 ### [Conventional Commits](https://www.conventionalcommits.org/)
+
+A specification for adding human and machine readable meaning to commit messages.
 
 ### [GitHub](https://github.com/)
 
