@@ -108,7 +108,7 @@ Learn all about the properties available in CSS Grid Layout through simple visua
 
 Learn all about the properties available in flexbox through simple visual examples.
 
-### [PPure CSS Loaders](https://loading.io/css/)
+### [Pure CSS Loaders](https://loading.io/css/)
 
 Open source CSS loading animations dedicated for speed, simplicity & dev-friendly.
 < 1KB per icon before minimized.
