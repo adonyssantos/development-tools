@@ -96,6 +96,10 @@ Here you can find the perfect matching color scheme for your next project! Gener
 
 Create color palettes with the color wheel or image, browse thousands of color combinations from the Adobe Color community.
 
+### [colors.co](https://coolors.co/)
+
+The super fast color palettes generator!
+
 ### [BlobMaker](https://www.blobmaker.app/)
 
 Make organic SVG shapes for your next design. Modify the complexity, contrast, and color, to generate unique SVG blobs every time.
@@ -133,7 +137,19 @@ Generator to build organic shapes with CSS3 border-radius
 
 Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.
 
+### [diagrams.net](https://www.diagrams.net/)
+
+Security-first diagramming for teams.
+
+### [Lorem Ipsum Generator](https://loremipsum.io/generator/)
+
+Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!
+
 ## Workflow
+
+### [EasyRetro](https://easyretro.io/)
+
+Improve with, Fun Sprint, Retrospectives. 🔥
 
 ### [Conventional Commits](https://www.conventionalcommits.org/)
 
