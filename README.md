@@ -68,6 +68,11 @@ The Zoom Client for Linux allows you to start or join Zoom meetings on Ubuntu, F
 
 ## Design
 
+### [Material Design]([material.io](https://material.io/))
+
+Material 3 is the latest version of Google’s open-source design system. Design and build beautiful, usable products with Material 3.
+
+
 ### [Formito (Free Favicon Maker)](https://formito.com/tools/favicon)
 
 A simple tool that lets you design a letter-based or emoji-based favicon. It allows you to control the font, size, variant, color, and background.
@@ -75,6 +80,10 @@ A simple tool that lets you design a letter-based or emoji-based favicon. It all
 ### [Google Fonts](https://fonts.google.com/)
 
 Google Fonts is a computer font and web font service owned by Google. This includes free and open source font families, an interactive web directory for browsing the library, and APIs for using the fonts via CSS and Android. Popular fonts in the Google Fonts library include Roboto, Open Sans, Lato, Oswald, Montserrat, Source Sans Pro, and Raleway.
+
+### [Blush](https://blush.design/)
+
+Easily create and customize stunning illustrations with collections made by artists across the globe. Try it, it’s kind of fun.
 
 ### [CSS ARROW PLEASE!](https://cssarrowplease.com/)
 
@@ -99,6 +108,10 @@ Create color palettes with the color wheel or image, browse thousands of color c
 ### [colors.co](https://coolors.co/)
 
 The super fast color palettes generator!
+
+### [hue.tools](https://hue.tools/)
+
+An open source toolbox for colors.
 
 ### [BlobMaker](https://www.blobmaker.app/)
 
