@@ -231,6 +231,10 @@ Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a
 
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 
+### [Readme.so](https://readme.so/)
+
+Our simple editor allows you to quickly add and customize all the sections you need for your project's readme.
+
 ### [Google Developer Tools](https://www.google.com/chrome/dev/)
 
 Google Chrome for developers was built for the open web. Test cutting-edge web platform APIs and developer tools that are updated weekly.
